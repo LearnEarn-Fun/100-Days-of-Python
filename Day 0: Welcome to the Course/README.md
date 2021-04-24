@@ -1,5 +1,11 @@
 # Welcome to the course!
 
+Check Out Poster: https://github.com/LearnEarn-Fun/100-Days-of-Python/blob/main/Day%200:%20Welcome%20to%20the%20Course/Check%20Out%20Poster.pdf
+
+Coding Notebook Sheets: https://github.com/LearnEarn-Fun/100-Days-of-Python/blob/main/Day%200:%20Welcome%20to%20the%20Course/Coding%20Notebook%20Sheets.pdf
+
+Syllabus: https://github.com/LearnEarn-Fun/100-Days-of-Python/blob/main/Day%200:%20Welcome%20to%20the%20Course/Syllabus.pdf
+
 Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping.
 Welcome to the 100 Days of Python
 The Complete Python Bootcamp, the only course you need to learn to code with Python. 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python.
