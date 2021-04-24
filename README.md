@@ -12,7 +12,9 @@ This repository contains all the coding excerises, For the Official 100 Days of 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+---
 
+https://www.youtube.com/playlist?list=PLXMBJ3hDkK5UZsTPpvoCGStp7U-NSRolH - You Could Find the Free Official 100 Days of Python Course!
 
 ## Course Created by
 
