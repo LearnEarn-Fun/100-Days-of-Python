@@ -20,8 +20,8 @@ logo = """
 print(welcome)
 print(logo)
 
-height = input("enter your height in Metre: ")
-weight = input("Enter your weight in Kg: ")
+height = input("Enter your height in m: ")
+weight = input("Enter your weight in kg: ")
 
 height_int = float(height)
 weight_int = int(weight)
