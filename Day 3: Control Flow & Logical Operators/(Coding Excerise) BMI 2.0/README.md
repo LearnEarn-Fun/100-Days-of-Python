@@ -7,7 +7,7 @@ Write a program that interprets the Body Mass Index (BMI) based on a user's weig
 It should tell them the interpretation of their BMI based on the BMI value.
 
 - Under 18.5 - "You are underweight!"
-- Over 18.5 but below 25 - "You are normal!"
+- Over 18.5 but below 25 - "You have normal weight!"
 - Over 25 but below 30 - "You are slightly overweight!"
 - Over 30 but below 35 - "You are obese!"
 - Above 35 - "You are clinically obese!"
