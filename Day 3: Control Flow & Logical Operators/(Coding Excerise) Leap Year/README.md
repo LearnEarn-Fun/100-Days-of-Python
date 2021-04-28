@@ -1,6 +1,6 @@
 ## Leap Year
 
-# 💪This is a Difficult Challenge 💪
+### 💪This is a Difficult Challenge 💪
 
 # Instructions
 
@@ -11,8 +11,8 @@ Write a program that works out whether if a given year is a leap year. A normal 
 This is how you work out whether if a particular year is a leap year. 
 
 > `on every year that is evenly divisible by 4
->   **except** every year that is evenly divisible by 100
->     **unless** the year is also evenly divisible by 400`
+>   except every year that is evenly divisible by 100
+>     unless the year is also evenly divisible by 400`
 
 e.g. The year 2000:
 
@@ -32,8 +32,6 @@ But the year 2100 is not a leap year because:
 
 2100 ÷ 400 = 5.25 (Not Leap)
 
-**Warning** your output should match the Example Output format exactly, even the positions of the commas and full stops. 
-
 # Example Input 1
 
 ```
@@ -43,7 +41,7 @@ But the year 2100 is not a leap year because:
 # Example Output 1
 
 ```
-Leap year.
+2400 is a Leap Year!
 ```
 
 # Example Input 2
@@ -55,18 +53,14 @@ Leap year.
 # Example Output 2
 
 ```
-Not leap year.
+1989 is not a leap year.
 ```
-
-e.g. When you hit **run**, this is what should happen:  
-
- ![](https://cdn.fs.teachablecdn.com/AthNqKoSm6JD4sMom2X2)
 
 # Hint
 
 1. Try to visualise the rules by creating a flow chart on www.draw.io
 2. If you really get stuck, you can see the flow chart I created: 
 
-https://bit.ly/36BjS2D
+https://drive.google.com/file/d/1qH7n7wudvUdSxW8IyIm-HVIsj6PcRxCG/view?usp=sharing
 
 All The Best! 🤜
