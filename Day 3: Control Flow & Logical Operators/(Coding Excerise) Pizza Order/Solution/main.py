@@ -19,22 +19,30 @@ size = input("What size pizza do you want? S, M, or L ")
 add_pepperoni = input("Do you want pepperoni? Y or N ")
 extra_cheese = input("Do you want extra cheese? Y or N ")
 
+detailed_bill = ""
+
 bill = 0
 if size == "S":
-  bill = 15
+  bill = 20
+  detailed_bill += "Small Pizza: $20"
 
 if size == "M":
-  bill = 20
+  bill = 25
+  detailed_bill += "Medium Pizza: $25"
  
 if size == "L":
-  bill = 25
+  bill = 30
+  detailed_bill += "Large Pizza: $30"
 
 if add_pepperoni == "Y":
   if size == "S":
-    bill += 2
+    bill += 4
+    detailed_bill += "\nPepperoni for Small Pizza: $4"
   else:
-    bill += 3
+    bill += 6
+    detailed_bill += "\nPepperoni for Medium or Large Pizza: $6"
 
 if extra_cheese == "Y":
-    bill += 1
-print(f"Your bill is ${bill}")
+    bill += 2
+    detailed_bill += "\nExtra Cheese: $2"
+print(f"Your bill is ${bill} \n----------------------- \n{detailed_bill}")
