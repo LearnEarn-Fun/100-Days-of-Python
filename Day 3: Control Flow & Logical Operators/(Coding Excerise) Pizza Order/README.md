@@ -19,11 +19,11 @@ Large Pizza: $30
 ```
 
 ```
-Pepperoni for Small Pizza: +$4
+Pepperoni for Small Pizza: $4
 ```
 
 ```
-Pepperoni for Medium or Large Pizza: +$6
+Pepperoni for Medium or Large Pizza: $6
 ```
 
 ```
@@ -47,7 +47,10 @@ extra_cheese = "N"
 # Example Output
 
 ```
-Your final bill is: $28.
+Your final bill is: $28
+-----------------------
+Large Pizza: $30
+Pepperoni for Medium or Large Pizza: $6
 ```
 
 # Hint
