@@ -2,32 +2,32 @@
 
 # Instructions
 
-Congratulations, you've got a job at Python Pizza. Your first job is to build an automatic pizza order program. 
+Congratulations, you've got a job at Python Pizza. Your first job is to build an automatic pizza order. 
 
 Based on a user's order, work out their final bill. 
 
 ```
-Small Pizza: $15
+Small Pizza: $20
 ```
 
 ```
-Medium Pizza: $20
+Medium Pizza: $25
 ```
 
 ```
-Large Pizza: $25
+Large Pizza: $30
 ```
 
 ```
-Pepperoni for Small Pizza: +$2
+Pepperoni for Small Pizza: +$4
 ```
 
 ```
-Pepperoni for Medium or Large Pizza: +$3
+Pepperoni for Medium or Large Pizza: +$6
 ```
 
 ```
-Extra cheese for any size pizza: + $1
+Extra cheese for any size pizza: + $2
 ```
 
 # Example Input
@@ -49,12 +49,6 @@ extra_cheese = "N"
 ```
 Your final bill is: $28.
 ```
-
-e.g. When you hit **run**, this is what should happen:  
-
- 
-![](https://cdn.fs.teachablecdn.com/p1evEkwQxGNR4WlolIb4)
-  
 
 # Hint
 
