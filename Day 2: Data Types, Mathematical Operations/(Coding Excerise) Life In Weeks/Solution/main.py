@@ -31,11 +31,11 @@ YYY:::::Y   Y:::::YYYooooooooooo   uuuuuu    uuuuuu rrrrr   rrrrrrrrr          L
 
 print(welcome)
 print(logo)
-age = input("What is your current age?")
+age = input("What is your current age? ")
 
-years = 90 - int(age)
+years = 100 - int(age)
 days_left = round(years * 365)
 weeks_left = round(years * 52)
 months_left = round(years * 12)
 
-print(f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left for death")
+print(f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left for death 😏")
