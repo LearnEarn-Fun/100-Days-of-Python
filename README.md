@@ -1,4 +1,5 @@
 # 🎯 💻 100 Days of Python! 🏆 🏅
+
 ![100-Days-of-Python](https://socialify.git.ci/LearnEarn-Fun/100-Days-of-Python/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fhridaya423%2FImages-for-External-Sources1%2Fmain%2FTransparent.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 <br><br>
 This repository contains all the coding excerises, For the Official 100 Days of Python Course <br><br>
@@ -23,3 +24,6 @@ https://www.youtube.com/playlist?list=PLXMBJ3hDkK5UZsTPpvoCGStp7U-NSRolH - You C
 |                                                                                      **[Learn Earn & Fun](https://www.github.com/LearnEarn-Fun)**                                                                                    |
 
 
+---
+
+© 2021 Learn Earn & Fun Inc.
