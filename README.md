@@ -18,7 +18,7 @@ https://www.youtube.com/playlist?list=PLXMBJ3hDkK5UZsTPpvoCGStp7U-NSRolH - You C
 
 ## Course Created by
 
-|                                     <a href="https://github.com/LearnEarn-Fun"><img src="https://avatars.githubusercontent.com/u/66988598?s=400&u=cea2effa83b4b145d26b117a4dc7dec028a9b3ca&v=4"/></a>                                      |
+|                                     <a href="https://github.com/LearnEarn-Fun"><img src="https://avatars.githubusercontent.com/u/66988598?s=400&u=cea2effa83b4b145d26b117a4dc7dec028a9b3ca&v=4" width=150 height=150/></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Learn Earn & Fun](https://www.github.com/LearnEarn-Fun)**                                                                                    |
 
