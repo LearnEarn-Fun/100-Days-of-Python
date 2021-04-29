@@ -1,6 +1,6 @@
-# Printing
+## Printing
 
-## Instructions
+### Instructions
 
 Write a program that prints the following lines:
 
