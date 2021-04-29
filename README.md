@@ -1,4 +1,4 @@
-# 🎯 💻 100 Days of Python! 🏆 🏅
+# 🎯 💻 100 Days of Python! 🐍
 
 ![100-Days-of-Python](https://socialify.git.ci/LearnEarn-Fun/100-Days-of-Python/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fhridaya423%2FImages-for-External-Sources1%2Fmain%2FTransparent.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 <br><br>
