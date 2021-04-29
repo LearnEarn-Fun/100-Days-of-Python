@@ -33,4 +33,4 @@ YYY:::::Y   Y:::::YYYooooooooooo   uuuuuu    uuuuuu rrrrr   rrrrrrrrr          L
 
 print(welcome)
 print(logo)
-age = input("What is your current age?")
+age = input("What is your current age? ")
