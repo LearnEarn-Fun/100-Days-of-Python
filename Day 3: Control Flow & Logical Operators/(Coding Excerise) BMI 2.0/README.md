@@ -1,6 +1,6 @@
 ## BMI Calculator 2.0
 
-# Instructions
+### Instructions
 
 Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
 
@@ -13,9 +13,9 @@ It should tell them the interpretation of their BMI based on the BMI value.
 - Above 35 - "You are clinically obese!"
 
 
-**Warning** you should **round** the result to the nearest whole number.
+**Warning:** you should **round** the result to the nearest whole number.
 
-# Example Input
+### Example Input
 
 ```
 weight = 85
@@ -25,7 +25,7 @@ weight = 85
 height = 1.75
 ```
 
-# Example Output
+### Example Output
 
 85 ÷ (1.75 x 1.75) =  27.755102040816325
 
