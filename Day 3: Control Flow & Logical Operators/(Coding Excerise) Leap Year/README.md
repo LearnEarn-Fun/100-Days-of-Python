@@ -2,8 +2,6 @@
 
 ### 💪This is a Difficult Challenge 💪
 
-# Instructions
-
 Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February. The reason why we have leap years is really fascinating, this video does it more justice:
 
 [https://www.youtube.com/watch?v=xX96xng7sAE](https://www.youtube.com/watch?v=xX96xng7sAE)
@@ -32,31 +30,31 @@ But the year 2100 is not a leap year because:
 
 2100 ÷ 400 = 5.25 (Not Leap)
 
-# Example Input 1
+### Example Input 1
 
 ```
 2400
 ```
 
-# Example Output 1
+### Example Output 1
 
 ```
 2400 is a Leap Year!
 ```
 
-# Example Input 2
+### Example Input 2
 
 ```
 1989
 ```
 
-# Example Output 2
+### Example Output 2
 
 ```
 1989 is not a leap year.
 ```
 
-# Hint
+### Hint
 
 1. Try to visualise the rules by creating a flow chart on www.draw.io
 2. If you really get stuck, you can see the flow chart I created: 
