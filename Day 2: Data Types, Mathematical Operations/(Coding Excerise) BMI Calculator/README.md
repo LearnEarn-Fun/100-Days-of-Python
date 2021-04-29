@@ -1,6 +1,6 @@
-# BMI Calculator
+## BMI Calculator
 
-## Instructions
+### Instructions
 
 Write a program that calculates the BMI ( Body Mass Index ) from a user's weight and height.
 
@@ -10,15 +10,15 @@ The BMI is calculated by dividing a person's weight (in kg) by the square of the
 
 The calculation for BMI is weight / ( height * height )
 
-*Warning:* You should convert the result to a whole number.
+*Note:* You should convert the result to a whole number.
 
-## Example Input
+### Example Input
 
 `weight = 80`
 
 `height = 1.75`
 
-## Example Output
+### Example Output
 
 80 ÷ (1.75 x 1.75) = 26.122448979591837
 
