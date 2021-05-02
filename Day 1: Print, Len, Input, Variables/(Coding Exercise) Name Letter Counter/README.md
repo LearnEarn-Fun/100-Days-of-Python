@@ -1,16 +1,16 @@
-# Inputs
+## Name Letter Counter
 
-## Instrutions
+### Instrutions
 
 Write a program that prints the number of characters in a user's name.
 
 *Warning*. Your program should work for different inputs. e.g. any name that you input.
 
-## Example Input
+### Example Input
 
 `Learn Earn & Fun`
 
-## Example Output
+### Example Output
 
 `16`
 
