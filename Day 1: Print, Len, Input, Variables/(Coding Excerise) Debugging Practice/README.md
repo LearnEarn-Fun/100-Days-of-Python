@@ -14,9 +14,7 @@ When you run your program, it should print the following:
 
 `Day 1 - Lecture 1.6 - String Manuplation & Indentation`
 
-`String Concatenation is done with the "+" sign. Intdentation is most important in Python!`
-
-`Example: print("Hello " + "world")`
+`Indentation is most important in Python!`
 
 `New lines can be created with a backslash and n.`
 
