@@ -21,7 +21,7 @@ logo = """
 
 print(welcome)
 print(logo)
-each_people_price = float(input("How much would you like to give every child?"))
+each_people_price = int(input("How much would you like to give every child?"))
 children = int(input("How many children are there to donate?"))
 
 total_donation = each_people_price * children
