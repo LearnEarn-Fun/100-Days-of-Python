@@ -1,4 +1,4 @@
-## Variables
+## Number Swapper
 
 ### Instructions
 
